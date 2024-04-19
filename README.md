@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aquilesan1
+- 👋 Hi, I’m @aquiles
 - 👀 I’m interested in ... Coding
 - 🌱 I’m currently learning ... C++
 - 💞️ I’m looking to collaborate on ... C++
